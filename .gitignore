@@ -32,3 +32,6 @@ yarn-error.log*
 .vercel
 
 .vercel
+
+# Claude Code tooling config (local dev-server preview config, not needed to run the project)
+.claude/
